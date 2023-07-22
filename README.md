@@ -28,5 +28,6 @@ This respository is about my internship project at NARIT during June 2022- July 
   subsriber node located in the server.Plus integrating the socket IO and Protobuffer protocol to minimize the data size and transfer time to the max level.The data 
   that monitored in the server room is real time  is used to produce the UI show in the main control room for the presentative of the data.
   <p align="center">
-    <img src="https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/384b2cc3-2b68-4656-816b-99e7ed1e32c2" width="250" >
+    <img src="https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/384b2cc3-2b68-4656-816b-99e7ed1e32c2" width="350" >
+    <img src="https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/359601a5-90ed-4ebb-bc9e-a02c0d79b02a" width="350" >
   </p>

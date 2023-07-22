@@ -1,0 +1,36 @@
+.\zipalign.exe -v 4 "C:\Users\User\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-03\NARIT_Application 7-03-22 12.28 PM.apkarchive\com.companyname.narit_application.apk" "C:\Users\User\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-03\NARIT_Application 7-03-22 12.28 PM.apkarchive\NARIT.apk"
+
+.\apksigner.bat sign --ks "D:\NARIT_Application\myapp.keystore" --ks-key-alias key "C:\Users\User\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-03\NARIT_Application 7-03-22 12.28 PM.apkarchive\NARIT.apk"
+
+D:\Android\android-sdk\build-tools\30.0.3\zipalign.exe -v 4 "D:\NARIT-WORK\NARIT_Application\bin\Debug\net6.0-android\com.companyname.narit_application.apk" "D:\NARIT-WORK\NARIT_Application\bin\Debug\net6.0-android\NARITedited.apk"
+
+D:\Android\android-sdk\build-tools\30.0.3\apksigner.bat sign --ks "D:\NARIT-WORK\NARIT_Application\myapp.keystore" --ks-key-alias key "D:\NARIT-WORK\NARIT_Application\bin\Debug\net6.0-android\NARITedited.apk"
+
+
+D:\Android\android-sdk\build-tools\30.0.3\zipalign.exe -v 4 "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-04\NARIT_Application 7-04-22 2.27 PM.aabarchive\com.companyname.narit_application.aab" "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-04\NARIT_Application 7-04-22 2.27 PM.aabarchive\NARITedited2.aab"
+
+D:\Android\android-sdk\build-tools\30.0.3\apksigner.bat sign --ks "D:\NARIT-WORK\NARIT_Application\myapp.keystore" --ks-key-alias key "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-04\NARIT_Application 7-04-22 2.27 PM.aabarchive\NARITedited2.aab"
+
+**D:\Android\android-sdk\build-tools\30.0.3\zipalign.exe -v 4 "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-04\NARIT_Application 7-04-22 3.39 PM.apkarchive\com.companyname.narit_application.apk" "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-04\NARIT_Application 7-04-22 3.39 PM.apkarchive\NARITedited3.apk"
+
+**D:\Android\android-sdk\build-tools\30.0.3\apksigner.bat sign --ks "D:\NARIT-WORK\NARIT_Application\myapp.keystore" --ks-key-alias key "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-04\NARIT_Application 7-04-22 3.39 PM.apkarchive\NARITedited3.apk"
+
+D:\Android\android-sdk\build-tools\30.0.3\zipalign.exe -v 4 "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-05\NARIT_Application 7-05-22 1.21 PM.apkarchive\com.companyname.narit_application.apk" "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-05\NARIT_Application 7-05-22 1.21 PM.apkarchive\NARITedited4.apk"
+
+D:\Android\android-sdk\build-tools\30.0.3\apksigner.bat sign --ks "D:\NARIT-WORK\NARIT_Application\myapp.keystore" --ks-key-alias key "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-05\NARIT_Application 7-05-22 1.21 PM.apkarchive\NARITedited4.apk"
+
+D:\Android\android-sdk\build-tools\30.0.3\zipalign.exe -v 4 "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-05\NARIT_Application 7-05-22 2.20 PM.apkarchive\com.companyname.narit_application.apk" "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-05\NARIT_Application 7-05-22 2.20 PM.apkarchive\NARITedit5.apk"
+
+D:\Android\android-sdk\build-tools\30.0.3\apksigner.bat sign --ks "D:\NARIT-WORK\NARIT_Application\myapp.keystore" --ks-key-alias key "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-05\NARIT_Application 7-05-22 2.20 PM.apkarchive\NARITedit5.apk"
+
+D:\Android\android-sdk\build-tools\30.0.3\zipalign.exe -v 4 "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-06\NARIT_Application 7-06-22 3.29 PM.apkarchive\com.companyname.narit_application.apk" "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-06\NARIT_Application 7-06-22 3.29 PM.apkarchive\NARITedit6.apk"
+
+D:\Android\android-sdk\build-tools\30.0.3\apksigner.bat sign --ks "D:\NARIT-WORK\NARIT_Application\myapp.keystore" --ks-key-alias key "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-06\NARIT_Application 7-06-22 3.29 PM.apkarchive\NARITedit6.apk"
+
+D:\Android\android-sdk\build-tools\30.0.3\zipalign.exe -v 4 "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-22\NARIT_Application 7-22-22 10.25 AM.apkarchive\com.companyname.narit_application.apk" "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-22\NARIT_Application 7-22-22 10.25 AM.apkarchive\NARITedit7.apk"
+
+D:\Android\android-sdk\build-tools\30.0.3\apksigner.bat sign --ks "D:\NARIT-WORK\NARIT_Application\myapp.keystore" --ks-key-alias key "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-22\NARIT_Application 7-22-22 10.25 AM.apkarchive\NARITedit7.apk"
+
+D:\Android\android-sdk\build-tools\30.0.3\zipalign.exe -v 4 "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-26\NARIT_Application 7-26-22 12.57 PM.apkarchive\com.companyname.narit_application.apk" "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-26\NARIT_Application 7-26-22 12.57 PM.apkarchive\NARITedit8.apk"
+
+D:\Android\android-sdk\build-tools\30.0.3\apksigner.bat sign --ks "D:\NARIT-WORK\NARIT_Application\myapp.keystore" --ks-key-alias key "C:\Users\Admin\AppData\Local\Xamarin\Mono for Android\Archives\2022-07-26\NARIT_Application 7-26-22 12.57 PM.apkarchive\NARITedit8.apk" 

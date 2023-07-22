@@ -8,6 +8,10 @@ This respository is about my internship project at NARIT during June 2022- July 
   the authorized IP and Password,the connection is created and can be able to monitor and command the PLC controlling the power switch.However,the protocol that use 
   in this project is the secret of the NARIT engineering team developed by the team 's member or my mentor at that time.More of the function of this application is     planned for the better use and convinient.
 
+  <p align="center">
+  <img src="![PAGE 1page1](https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/0f957a6d-3093-4b21-9f2e-3a61c681192c)" >
+  </p>
+
 
 2.The Observatory Dome Position Tracker
   The second project is about to design the module which help to monitor the observatory dome 's position.The reason is that at back then they can only know of 2 

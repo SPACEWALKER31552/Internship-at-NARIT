@@ -10,8 +10,11 @@ This respository is about my internship project at NARIT during June 2022- July 
 
   <p align="center">
     <img src="https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/0f957a6d-3093-4b21-9f2e-3a61c681192c" width="150" >
+    <img src="https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/89bec6f0-4694-4b9d-8e3a-4ea83f3951fa" width="150" >
   </p>
-
+  <p align="center">
+    
+  </p>
 
 2.The Observatory Dome Position Tracker
   The second project is about to design the module which help to monitor the observatory dome 's position.The reason is that at back then they can only know of 2 

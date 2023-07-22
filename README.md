@@ -9,7 +9,7 @@ This respository is about my internship project at NARIT during June 2022- July 
   in this project is the secret of the NARIT engineering team developed by the team 's member or my mentor at that time.More of the function of this application is     planned for the better use and convinient.
 
   <p align="center">
-    <img src="![PAGE 1page1](https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/0f957a6d-3093-4b21-9f2e-3a61c681192c)" >
+    <img src="![PAGE 1page1](https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/0f957a6d-3093-4b21-9f2e-3a61c681192c)" width="*" >
   </p>
 
 

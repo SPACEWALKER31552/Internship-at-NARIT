@@ -12,10 +12,10 @@ This respository is about my internship project at NARIT during June 2022- July 
     <img src="https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/0f957a6d-3093-4b21-9f2e-3a61c681192c" width="150" >
     <img src="https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/89bec6f0-4694-4b9d-8e3a-4ea83f3951fa" width="150" >
     <img src="https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/3a702220-9d8b-4818-9d74-8843eae84c15" width="150" >
-
   </p>
   <p align="center">
-    
+    <img src="https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/c2a7cbb9-669c-4920-9a5a-0247caf19ac6" width="150" >
+    <img src="https://github.com/SPACEWALKER31552/Internship-at-NARIT/assets/109845426/eee9c18f-a92b-4cb1-9edd-0c13c059d6a1" width="150" >
   </p>
 
 2.The Observatory Dome Position Tracker
